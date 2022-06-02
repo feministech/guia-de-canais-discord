@@ -8,7 +8,7 @@ Entrada são os canais referentes à informações e lugares que você deve pass
 
 | Canal               |                                                                                                          Descrição |
 | :------------------ | -----------------------------------------------------------------------------------------------------------------: |
-| 👯♀divulgações      |                       Canal para divulgações no geral, tanto da coordenação, quanto de pessoas membras do servidor |
+| divulgações         |                       Canal para divulgações no geral, tanto da coordenação, quanto de pessoas membras do servidor |
 | boas-vindas         |                                                         Canal que mostra as pessoas que estão entrando no servidor |
 | cargos              |  Canal destinado a pegarmos algumas tags em relação à pronomes, sexualidade, área da tecnologia que estudamos,etc. |
 | apresente-se        | Canal para pessoas novas na comunidade se apresentarem, falando um pouco sobre elas e como conheceram a comunidade |
@@ -29,7 +29,7 @@ Canto especial para coisas criadas ou espalhadas pela comunidade
 | Canal          |                                                                             Descrição |
 | :------------- | ------------------------------------------------------------------------------------: |
 | links          |         Canal para enviarmos links no geral, sem muita necessidade de alta divulgação |
-| ⭐dicas        |                                            Canal para enviarmos dicas técnicas ou não |
+| dicas          |                                            Canal para enviarmos dicas técnicas ou não |
 | sugestões      | Canal para enviarmos sugestões à comunidade, criação de canais, projetos, ideias,etc. |
 | desabafo       |                                     Canal para desabafarmos os problemas do dia a dia |
 | imagens        |                                                 Canal para enviarmos imagens no geral |
